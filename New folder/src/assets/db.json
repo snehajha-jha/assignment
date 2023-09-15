@@ -1,0 +1,152 @@
+
+[
+  {
+    "name": "Primebook 4G ",
+    "price": 111999.99,
+    "image": "assets/images/1.webp",
+    "RAM": "8 GB",
+    "SSD": "256 GB",
+    "HDD": "1 TB",
+    "ScreenSize": "15.6 inches",
+    "OS": "Windows 10"
+  },
+  {
+    "name": "ASUS Vivobook Pro 15 ",
+    "price": 61299.99,
+    "image": "assets/images/2.webp",
+    "RAM": "16 GB",
+    "SSD": "512 GB",
+    "HDD": "1 TB",
+    "ScreenSize": "14 inches",
+    "OS": "Windows 12"
+  },
+  {
+    "name": "HP",
+    "price": 899.99,
+    "image": "assets/images/3.webp",
+    "RAM": "8 GB",
+    "SSD": "128 GB",
+    "HDD": "1 TB",
+    "ScreenSize": "13.3 inches",
+    "OS": "Linux"
+  },  {
+    "name": "Dell 4",
+    "price": 999.99,
+    "image": "assets/images/4.webp",
+    "RAM": "8 GB",
+    "SSD": "256 GB",
+    "HDD": "1 TB",
+    "ScreenSize": "15.6 inches",
+    "OS": "Windows 8"
+  },
+  {
+    "name": "HP ",
+    "price": 61299.99,
+    "image": "assets/images/5.webp",
+    "RAM": "16 GB",
+    "SSD": "512 GB",
+    "HDD": "1 TB",
+    "ScreenSize": "14 inches",
+    "OS": "Windows 11"
+  },
+  {
+    "name": "Acer Laptop",
+    "price": 899.99,
+    "image": "assets/images/6.webp",
+    "RAM": "8 GB",
+    "SSD": "128 GB",
+    "HDD": "1 TB",
+    "ScreenSize": "13.3 inches",
+    "OS": "MacOS"
+  },
+  {
+    "name": "ASUS Vivobook Pro 15 ",
+    "price": 999.99,
+    "image": "assets/images/7.webp",
+    "RAM": "8 GB",
+    "SSD": "256 GB",
+    "HDD": "1 TB",
+    "ScreenSize": "15.6 inches",
+    "OS": "Windows 10"
+  },
+  {
+    "name": "Laptop 8",
+    "price": 1299.99,
+    "image": "assets/images/8.webp",
+    "RAM": "16 GB",
+    "SSD": "512 GB",
+    "HDD": "1 TB",
+    "ScreenSize": "12.6 inches",
+    "OS": "Linux"
+  },
+  {
+    "name": "Laptop 9",
+    "price": 899.99,
+    "image": "assets/images/9.webp",
+    "RAM": "8 GB",
+    "SSD": "128 GB",
+    "HDD": "1 TB",
+    "ScreenSize": "11 inches",
+    "OS": "Linux"
+  },  {
+    "name": "HP",
+    "price": 999.99,
+    "image": "assets/images/10.webp",
+    "RAM": "8 GB",
+    "SSD": "256 GB",
+    "HDD": "1 TB",
+    "ScreenSize": "15.6 inches",
+    "OS": "Windows 8"
+  },
+  {
+    "name": "HP",
+    "price": 1299.99,
+    "image": "assets/images/11.webp",
+    "RAM": "16 GB",
+    "SSD": "512 GB",
+    "HDD": "1 TB",
+    "ScreenSize": "14.2 inches",
+    "OS": "Windows 11"
+  },
+  {
+    "name": "HP Pavilion",
+    "price": 899.99,
+    "image": "assets/images/12.webp",
+    "RAM": "8 GB",
+    "SSD": "16 GB",
+    "HDD": "1 TB",
+    "ScreenSize": "13.3 inches",
+    "OS": "MacOS"
+  },
+ {
+    "name": "Dell",
+    "price": 999.99,
+    "image": "assets/images/13.webp",
+    "RAM": "8 GB",
+    "SSD": "256 GB",
+    "HDD": "1 TB",
+    "ScreenSize": "15.6 inches",
+    "OS": "Windows 10"
+  },
+  {
+    "name": "ASUS Vivobook Pro 15 ",
+    "price": 1299.99,
+    "image": "assets/images/1.webp",
+    "RAM": "16 GB",
+    "SSD": "64 GB",
+    "HDD": "1 TB",
+    "ScreenSize": "14.4 inches",
+    "OS": "Windows 11"
+  },
+  {
+    "name": "ASUS Vivobook Pro 15 ",
+    "price": 899.99,
+    "image": "assets/images/7.webp",
+    "RAM": "8 GB",
+    "SSD": "32 GB",
+    "HDD": "1 TB",
+    "ScreenSize": "12 inches",
+    "OS": "MacOS"
+  }
+
+]
